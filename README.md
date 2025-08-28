@@ -23,8 +23,6 @@ O primeiro comando recebe as atualizações mais recentes do repositório remoto
 <summary>
 <h2>Como iniciar um projeto Java</h2>
 </summary>
-## Back-end
-
 A aplicação back-end em Java pode ser iniciada no VsCode da seguinte forma:
 
 1. No VsCode clique a sequência de teclas: "Ctrl" + "Shift" + "P".
