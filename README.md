@@ -19,7 +19,7 @@ git reset --hard origin/main
 
 O primeiro comando recebe as atualizações mais recentes do repositório remoto, e o segundo descarta todas as alterações locais e atualiza com o histórico mais recente do repositório remoto (branch main).
 <summary>
-## Como iniciar um projeto Java
+<h2>Como iniciar um projeto Java</h2>
 </summary>
 ### Back-end
 
