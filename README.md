@@ -18,6 +18,8 @@ git reset --hard origin/main
 ```
 
 O primeiro comando recebe as atualizações mais recentes do repositório remoto, e o segundo descarta todas as alterações locais e atualiza com o histórico mais recente do repositório remoto (branch main).
+
+<details>
 <summary>
 <h2>Como iniciar um projeto Java</h2>
 </summary>
@@ -28,3 +30,6 @@ A aplicação back-end em Java pode ser iniciada no VsCode da seguinte forma:
 1. No VsCode clique a sequência de teclas: "Ctrl" + "Shift" + "P".
 
 2. Selecione o tipo de projeto que deseja realizar, Maven, Spring Boot, No build tools...
+
+</details>
+
